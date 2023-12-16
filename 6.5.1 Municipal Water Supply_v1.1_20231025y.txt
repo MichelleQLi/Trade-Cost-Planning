@@ -1,0 +1,117 @@
+---
+markmap:
+  maxWidth: 300
+---
+
+# Hydraulic - Water Supply
+## **Defination**
+  - ### In New Zealand, a water supply system is typically defined as the facilities that provide drinking water and industrial water, including water source collection, water treatment, distribution, storage, monitoring, and maintenance. The primary objective of these systems is to deliver safe, clean, and dependable drinking water to meet the needs of communities and industries.
+  - ### **Level 3**
+## **Category**
+  - ### **For Usage 按使用用途**
+    - #### **Domestic/Household Water 生活用水**
+    - Potable Water 可饮用水
+    - Non-portable Water 一般生活用水
+      - bathroom
+      - toilet
+      - kitchen
+      - laundry
+      - yard/garden
+      - car
+      - etc
+    - #### **Industrial Water System 生产用水**
+    - #### **Fire Protection Water System 消防用水**
+    - Fire Protection Water System
+    - #### **Agricultural Water System 农业用水**
+    - #### **Rainwater Harvesting System 雨水收集**
+    - 雨水收集系统用于捕捉、储存和再利用雨水，以满足一些非饮用水的需求，如浇灌、冲洗等。
+      - irrigation
+      - car wash
+      - yard/ garden
+    - #### **Others 其它用水**
+    - Level 4 text 
+      Level 4 text 
+      - ##### Level 5
+      - Level 5 Text
+        - Text
+        - [Link](https://www.syais.com/Article/xfbhplbdqb_1.html)
+  - ### **By Steps 按环节步骤**
+    - #### **Collection 取水/采水**
+    - 天然水源
+      - river
+      - lake
+    - 雨水收集
+      - rainwater
+    - 地下水源
+      - underground water
+    - #### **Transport 输水**
+      - 将水源输送到水厂，进行水质处理。
+    - #### **Water Treatment 水质处理**
+    - Water Treatment 水质处理
+      - 多在自来水厂进行水质处理
+      - 预处理
+      - 絮凝
+      - 过滤
+      - 消毒
+    - Monitoring 水质监测
+    - Maintenance 水质维护
+    - #### **Storage 储水**
+    - #### **Distribution 配水**
+    - 配送给用户
+  - ### **Demarcation 不同的服务范围**
+    - #### **Municipal 市政给排水**
+    - #### **Outdoor 室外给排水**
+    - #### **Indoor 室内给排水**
+      - For main con like Naylor Love
+        focus more on Indoor Water Supply
+## **Components**
+  - ### **Inlet Pipe 引入管**
+  - ### **水表节点**
+  - ### **给水管道系统**
+  - Pipelines
+  - Sleeves
+    - Protection
+    - Insulation
+    - Other Purpose
+  - Fittings
+  - Joints
+  - Flanges
+  - ### **附件**
+  - Valves
+  - Meters
+  - Others
+  - ### **器具**
+  - Toilet
+  - Sink
+  - Basin
+  - ### **其它配套设备**
+    - #### **加压设备**
+    - #### **出水设备**
+    - Level 4 text 
+      Level 4 text 
+      - ##### Level 5
+      - Level 5 Text
+        - Text
+        - [Link](https://www.syais.com/Article/xfbhplbdqb_1.html)
+
+## **Level 2**
+  - ### **Level 3**
+    - #### **Level 4**
+    - Level 4 text 
+      Level 4 text 
+      - ##### Level 5
+      - Level 5 Text
+        - Text
+        - [Link](https://www.syais.com/Article/xfbhplbdqb_1.html)
+
+## **Trade Coordination**
+  - ### **Other Trades To Be Added**
+  - ### **Other Trades To Be Added**
+  - ### **Level 3**：
+    - #### **Level 4**  
+      - ##### Level 5
+      - Text
+        Text
+      - [Links](https://www.tasmantanks.co.nz/fire-protection/)
+
+
